@@ -1,11 +1,2 @@
 Raja first git example.
- Volume in drive C is OS
- Volume Serial Number is CCD9-2F6C
-
- Directory of C:\Users\kraja\Desktop\Project
-
-10/01/2017  10:35 PM    <DIR>          .
-10/01/2017  10:35 PM    <DIR>          ..
-10/01/2017  10:35 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  451,903,328,256 bytes free
+Ssup!!
